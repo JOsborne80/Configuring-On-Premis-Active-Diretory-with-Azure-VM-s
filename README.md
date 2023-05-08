@@ -1,0 +1,1 @@
+# Configuring-On-Premis-Active-Diretory-with-Azure-VM-s
